@@ -1,0 +1,31 @@
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(0, 0, 0, 0.616);
+  align-items: center;
+  height: 4rem;
+  color: green;
+  position: fixed;
+  width: 100%;
+}
+
+.userImg{
+  height: 29px;
+  margin-right: 10px;
+  /* display: flex; */
+}
+.right{
+  display: flex;
+}
+#whiteBtn{
+background-color: white;
+color: black;
+}
+.left Button{
+  color:white;
+  text-transform: none;
+}
+.right Button{
+  color:white;
+  text-transform: none;
+}
